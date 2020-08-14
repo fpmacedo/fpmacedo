@@ -3,7 +3,7 @@
 
 ## I'm a Control & Automation Engineer in Brazil 🌎
 
-- 🔭 I’m currently working with Mechanical Engineering developening and design semi-trailers at Randon SA.
+- 🔭 I’m currently working with Mechanical Engineering developening and designing semi-trailers at Randon SA.
 
 - 🌱 I’m currently learning about Frontend Applications with React Native, React, Styled components, Backend Applications with Node APIs using Express, data structure and something about UX/UI development.
 
