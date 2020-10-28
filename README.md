@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with Mechanical Engineering developening and designing semi-trailers at Randon SA.
 
-- 🌱 I’m currently learning about Frontend Applications with React Native, React, Styled components, Backend Applications with Node APIs using Express, data structure and something about UX/UI development.
+- 🌱 I’m currently learning about Data Science with Python, ReactJs, React-Native, Backend Applications with Node APIs using Express, data structure and something about UX/UI development.
 
 - ⚡ Fun fact: I like to learn new things and to know how the things are happening, feel free to connect with me so we can share some ideas.
 
