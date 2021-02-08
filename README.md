@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working with Mechanical Engineering developening and designing semi-trailers at Randon SA.
 
-- 🌱 I’m currently learning about Data Science with Python and R. I usually look to learn how to code in Javascript using ReactJs, React-Native and I can risk code simple Backend Applications with Node APIs using Express, data structure and something about UX/UI development, but now I am focusing in learn data science.
+- 🌱 I’m currently learning about Data Science and Data Engineering. Feel free to look in my repositorys and projects.
 
-- ⚡ Fun fact: I like to learn new things and to know how the things are happening, feel free to connect with me so we can share some ideas.
+- ⚡ Fun fact: I like to learn new things and to know how the things are happening, connect with me so we can share some ideas.
 
 
 - 📫 How to reach me:
