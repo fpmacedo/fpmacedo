@@ -1,9 +1,9 @@
 # Hi there! I'm Filipe 👋
 
 
-## I'm a Control & Automation Engineer in Brazil 🌎
+## I'm a Data Analyst and Control & Automation Engineer in Brazil 🌎
 
-- 🔭 I’m currently working with Mechanical Engineering developening and designing semi-trailers at Randon SA.
+- 🔭 I’m currently working as a Data Analyst at iFood.
 
 - 🌱 I’m currently learning about Data Science and Data Engineering. Feel free to look in my repositorys and projects.
 
